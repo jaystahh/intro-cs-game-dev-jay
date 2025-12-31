@@ -10,3 +10,7 @@ elif age < 16:
 
 elif age < 20:
     print(f"Happy birthday {name}. You're almost out of your teenage years!")
+
+    """This took me 2 hours. I used the name variable to print my real name whenever I inputed it into the terminal.
+    I utilized the if and elif statements and the age variable to make the terminal generate responses depending on the age its given."""
+    
